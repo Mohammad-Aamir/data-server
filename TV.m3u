@@ -69,22 +69,12 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/866
 #EXTINF:0,FOX LIFE
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/865
-#EXTINF:0,FOX CHANNEL
-http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/867
 #EXTINF:0,Set Max HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
 #EXTINF:0,Sab TV HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index_dvr.m3u8
 #EXTINF:0,Sony TV HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
-#EXTINF:0,Sony Ten 2 
-https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:0,Sony Pix HD
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:0,Sony BBC Earth HD
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:0,Sony Six HD
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:0,ANIMAL PLANET
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/899
 #EXTINF:0,NAT GEOGRAPHIC
@@ -99,8 +89,6 @@ http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/878
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/877
 #EXTINF:0,LIVE WION
 https://wserials.com/live-wion.m3u8
-#EXTINF:0,Bloomberg QUINT
-https://wserials.com/live-bloomberg-quint.m3u8
 #EXTINF:0,NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:0,NDTV Hindi
@@ -115,140 +103,6 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/881
 #EXTINF:0,DW News
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0,UK - Sony SAB
-http://securetv.net:8080/zguyMk8K8P/7602260256/1191?checkedby:iptvcat.com
-#EXTINF:0,UK - Syfy HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/1188?checkedby:iptvcat.com
-#EXTINF:0,UK - Star Gold
-http://securetv.net:8080/zguyMk8K8P/7602260256/1158?checkedby:iptvcat.com
-#EXTINF:0,UK - STAR PLUS
-http://securetv.net:8080/zguyMk8K8P/7602260256/1393?checkedby:iptvcat.com
-#EXTINF:0,UK - Nick Jr
-http://securetv.net:8080/zguyMk8K8P/7602260256/1227?checkedby:iptvcat.com
-#EXTINF:0,UK - Nat Geo Wild
-http://securetv.net:8080/zguyMk8K8P/7602260256/1228?checkedby:iptvcat.com
-#EXTINF:0,UK - Nat Geo
-http://securetv.net:8080/zguyMk8K8P/7602260256/1229?checkedby:iptvcat.com
-#EXTINF:0,UK - Movies4men
-http://securetv.net:8080/zguyMk8K8P/7602260256/1238?checkedby:iptvcat.com
-#EXTINF:0,UK - Discovery History
-http://securetv.net:8080/zguyMk8K8P/7602260256/1277?checkedby:iptvcat.com
-#EXTINF:0,UK - Discovery
-http://securetv.net:8080/zguyMk8K8P/7602260256/1274?checkedby:iptvcat.com
-#EXTINF:0,UK - Crime Investigation
-http://securetv.net:8080/zguyMk8K8P/7602260256/1280?checkedby:iptvcat.com
-#EXTINF:0,UK - Cartoon Network
-http://securetv.net:8080/zguyMk8K8P/7602260256/5366?checkedby:iptvcat.com
-#EXTINF:0,UK - Comedy Central
-http://securetv.net:8080/zguyMk8K8P/7602260256/1283?checkedby:iptvcat.com
-#EXTINF:0,UK - CNN International
-http://securetv.net:8080/zguyMk8K8P/7602260256/1284?checkedby:iptvcat.com
-#EXTINF:0,SONY MOVIE CHANNEL
-http://zlive.zonetv.vip:25461/angel/angel01/48501?checkedby:iptvcat.com
-#EXTINF:0,Investigation Discovery
-http://zlive.zonetv.vip:25461/angel/angel01/48395?checkedby:iptvcat.com
-#EXTINF:0,HBO
-http://zlive.zonetv.vip:25461/angel/angel01/48387?checkedby:iptvcat.com
-#EXTINF:0,HBO 2
-http://zlive.zonetv.vip:25461/angel/angel01/48629?checkedby:iptvcat.com
-#EXTINF:0,Discovery Channel
-http://zlive.zonetv.vip:25461/angel/angel01/48339?checkedby:iptvcat.com
-#EXTINF:0,CW
-http://zlive.zonetv.vip:25461/angel/angel01/48337?checkedby:iptvcat.com
-#EXTINF:0,CNN*
-http://zlive.zonetv.vip:25461/angel/angel01/46768?checkedby:iptvcat.com
-#EXTINF:0,CNBC*
-http://zlive.zonetv.vip:25461/angel/angel01/46767?checkedby:iptvcat.com
-#EXTINF:0,AMC
-http://zlive.zonetv.vip:25461/angel/angel01/48305?checkedby:iptvcat.com
-#EXTINF:0,A&E
-http://zlive.zonetv.vip:25461/angel/angel01/48292?checkedby:iptvcat.com
-#EXTINF:0,The CW Network
-http://securetv.net:8080/zguyMk8K8P/7602260256/22466?checkedby:iptvcat.com
-#EXTINF:0,TVONE
-http://securetv.net:8080/zguyMk8K8P/7602260256/23240?checkedby:iptvcat.com
-#EXTINF:0,Starz HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/15906?checkedby:iptvcat.com
-#EXTINF:0,SyFy USA
-http://securetv.net:8080/zguyMk8K8P/7602260256/22469?checkedby:iptvcat.com
-#EXTINF:0,Nat Geo Wild USA
-http://securetv.net:8080/zguyMk8K8P/7602260256/22502?checkedby:iptvcat.com
-#EXTINF:0,National Geographic
-http://securetv.net:8080/zguyMk8K8P/7602260256/15953?checkedby:iptvcat.com
-#EXTINF:0,Nat Geo USA
-http://securetv.net:8080/zguyMk8K8P/7602260256/22503?checkedby:iptvcat.com
-#EXTINF:0,NAT GEO WILD HD US
-http://securetv.net:8080/zguyMk8K8P/7602260256/23285?checkedby:iptvcat.com
-#EXTINF:0,MoreMax HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/15910?checkedby:iptvcat.com
-#EXTINF:0,MTV LIVE
-http://securetv.net:8080/zguyMk8K8P/7602260256/23286?checkedby:iptvcat.com
-#EXTINF:0,MTV HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/23288?checkedby:iptvcat.com
-#EXTINF:0,Investigation Discovery HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/15911?checkedby:iptvcat.com
-#EXTINF:0,Investigation Discovery
-http://securetv.net:8080/zguyMk8K8P/7602260256/22513?checkedby:iptvcat.com
-#EXTINF:0,LIFETIME
-http://securetv.net:8080/zguyMk8K8P/7602260256/23293?checkedby:iptvcat.com
-#EXTINF:0,Lifetime USA
-http://securetv.net:8080/zguyMk8K8P/7602260256/22509?checkedby:iptvcat.com
-#EXTINF:0,LIFETIME MOVIES
-http://securetv.net:8080/zguyMk8K8P/7602260256/23292?checkedby:iptvcat.com
-#EXTINF:0,History Channel
-http://securetv.net:8080/zguyMk8K8P/7602260256/22515?checkedby:iptvcat.com
-#EXTINF:0,History
-http://securetv.net:8080/zguyMk8K8P/7602260256/15912?checkedby:iptvcat.com
-#EXTINF:0,HBO Zone
-http://securetv.net:8080/zguyMk8K8P/7602260256/15914?checkedby:iptvcat.com
-#EXTINF:0,HBO ZONE HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/23299?checkedby:iptvcat.com
-#EXTINF:0,HBO Signature
-http://securetv.net:8080/zguyMk8K8P/7602260256/15915?checkedby:iptvcat.com
-#EXTINF:0,HBO HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/23300?checkedby:iptvcat.com
-#EXTINF:0,HBO Family
-http://securetv.net:8080/zguyMk8K8P/7602260256/22516?checkedby:iptvcat.com
-#EXTINF:0,HBO FAMILY HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/23301?checkedby:iptvcat.com
-#EXTINF:0,HBO COMEDY HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/23303?checkedby:iptvcat.com
-#EXTINF:0,HBO Comedy
-http://securetv.net:8080/zguyMk8K8P/7602260256/15916?checkedby:iptvcat.com
-#EXTINF:0,HBO
-http://securetv.net:8080/zguyMk8K8P/7602260256/15913?checkedby:iptvcat.com
-#EXTINF:0,ESPN HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/15951?checkedby:iptvcat.com
-#EXTINF:0,Discovery Science HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/15961?checkedby:iptvcat.com
-#EXTINF:0,Discovery HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/15920?checkedby:iptvcat.com
-#EXTINF:0,Discovery Channel USA
-http://securetv.net:8080/zguyMk8K8P/7602260256/22549?checkedby:iptvcat.com
-#EXTINF:0,Comedy Central HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/22553?checkedby:iptvcat.com
-#EXTINF:0,Crime and Investigation
-http://securetv.net:8080/zguyMk8K8P/7602260256/22551?checkedby:iptvcat.com
-#EXTINF:0,DISCOVERY LIFE
-http://securetv.net:8080/zguyMk8K8P/7602260256/23333?checkedby:iptvcat.com
-#EXTINF:0,Comedy Central
-http://securetv.net:8080/zguyMk8K8P/7602260256/15933?checkedby:iptvcat.com
-#EXTINF:0,CNN HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/15934?checkedby:iptvcat.com
-#EXTINF:0,CNN
-http://securetv.net:8080/zguyMk8K8P/7602260256/23340?checkedby:iptvcat.com
-#EXTINF:0,Animal Planet
-http://securetv.net:8080/zguyMk8K8P/7602260256/15957?checkedby:iptvcat.com
-#EXTINF:0,Action Max HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/15924?checkedby:iptvcat.com
-#EXTINF:0,AMC HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/15923?checkedby:iptvcat.com
-#EXTINF:0,AMC
-http://securetv.net:8080/zguyMk8K8P/7602260256/22572?checkedby:iptvcat.com
-#EXTINF:0,AL JAZEERA NEWS ENGLISH HD
-http://securetv.net:8080/zguyMk8K8P/7602260256/23361?checkedby:iptvcat.com
-#EXTINF:0,A&E
-http://securetv.net:8080/zguyMk8K8P/7602260256/15966?checkedby:iptvcat.com
 #EXTINF:0,Urdu 1
 https://playlive.goonj.pk/urdu1web_480p/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,BollyWood Hd
@@ -259,109 +113,23 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Dubai One HD
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?1147504741&checkedby:iptvcat.com
-#EXTINF:0,Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione&checkedby:iptvcat.com
-#EXTINF:0,Dubai One
-http://46.60.1.82:8081/live5/Dubai.One/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:0,MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
-#EXTINF:0,MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
 #EXTINF:0,MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 #EXTINF:0,MBC Bollywood
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
 #EXTINF:0,MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
-#EXTINF:0,MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:0,STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,STAR PLUS SD
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,UK - STAR PLUS
-http://securetv.net:8080/zguyMk8K8P/7602260256/1393?checkedby:iptvcat.com
 #EXTINF:0,STAR WORLD (IN):-
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,STAR GOLD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,UK - Star Gold
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/1158.m3u8?checkedby:iptvcat.com
-#EXTINF:0,UK - Star Gold
-http://securetv.net:8080/zguyMk8K8P/7602260256/1158?checkedby:iptvcat.com
-#EXTINF:0,Star Bharat
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Zee TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Zee TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,ZEE TV
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9746.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Zee TV
-http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,ZEE cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,ZEE Cinema
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9776.m3u8?checkedby:iptvcat.com
-#EXTINF:0,ZEE Living
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9743.m3u8?checkedby:iptvcat.com
-#EXTINF:0,STARZ
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9347.m3u8?checkedby:iptvcat.com
-#EXTINF:0,STARZ COMEDY
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/23252.m3u8?checkedby:iptvcat.com
-#EXTINF:0,STARZ COMEDY
-http://securetv.net:8080/zguyMk8K8P/7602260256/23252?checkedby:iptvcat.com
-#EXTINF:0,STARZ EDGE
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9349.m3u8?checkedby:iptvcat.com
 #EXTINF:0,B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,B4U Music
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,B4U Movies
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9729.m3u8?checkedby:iptvcat.com
 #EXTINF:0,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:0,B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,B4U Plus
-http://37.235.38.131:4000/play/a02m/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8?checkedby:iptvcat.com
-#EXTINF:0,SONY INDIA
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9101.m3u8?checkedby:iptvcat.com
-#EXTINF:0,UK - Sony SAB
-http://securetv.net:8080/zguyMk8K8P/7602260256/1191?checkedby:iptvcat.com
-#EXTINF:0,Sony Movies (SD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/849.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Sony Movies Action (SD)
-http://iptv1.privateiptv.club:80/live/freeview/freeview/57.m3u8?checkedby:iptvcat.com
-#EXTINF:0,SONY
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9731.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Sony Movie Channel
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/406.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Sony Movies HD
-http://ingrid.ltd:25461/live/Gilberto1/Gilberto/19725.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Wowza3 SONY
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9245.m3u8?checkedby:iptvcat.com
-#EXTINF:0,UK - Lifetime
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/44243.m3u8?checkedby:iptvcat.com
-#EXTINF:0,CA - MTV
-http://securetv.net:8080/live/zguyMk8K8P/7602260256/40678.m3u8?checkedby:iptvcat.com
-#EXTINF:0,US Arabic: Peace TV
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/7612.m3u8?checkedby:iptvcat.com
-#EXTINF:0,B4U Movies
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9729.m3u8?checkedby:iptvcat.com
-#EXTINF:0,MTV LIVE
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2171.m3u8?checkedby:iptvcat.com
-#EXTINF:0,MTV Classic
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2168.m3u8?checkedby:iptvcat.com
-#EXTINF:0,MTV East
-http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/119.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Aus Sports
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
